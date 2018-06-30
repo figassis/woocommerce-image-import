@@ -1,0 +1,1570 @@
+{
+    "NA-AL": {
+        "code": "NA-AL",
+        "customer": "noivas",
+        "occasion": "acess\u00f3rios",
+        "subcategory": "Almofadas",
+        "cat_desc": "Almofadas para noivas",
+        "product_desc": "Almofada para noivados"
+    },
+    "NA-BD": {
+        "code": "NA-BD",
+        "customer": "noivas",
+        "occasion": "acess\u00f3rios",
+        "subcategory": "Brindes",
+        "cat_desc": "Brindes para noivas",
+        "product_desc": "Brinde para noivados"
+    },
+    "NA-BQ": {
+        "code": "NA-BQ",
+        "customer": "noivas",
+        "occasion": "acess\u00f3rios",
+        "subcategory": "Bouquets",
+        "cat_desc": "Bouquets para noivas",
+        "product_desc": "Bouquet para noivados"
+    },
+    "NA-CB": {
+        "code": "NA-CB",
+        "customer": "noivas",
+        "occasion": "acess\u00f3rios",
+        "subcategory": "Acess\u00f3rios de Cabelo",
+        "cat_desc": "Acess\u00f3rios de Cabelo para noivas",
+        "product_desc": "Acess\u00f3rios de cabelo para noivas"
+    },
+    "NA-CE": {
+        "code": "NA-CE",
+        "customer": "noivas",
+        "occasion": "acess\u00f3rios",
+        "subcategory": "Cestos",
+        "cat_desc": "Cestos para noivas",
+        "product_desc": "Cesto para noivados"
+    },
+    "NA-CH": {
+        "code": "NA-CH",
+        "customer": "noivas",
+        "occasion": "acess\u00f3rios",
+        "subcategory": "Chap\u00e9us",
+        "cat_desc": "Chap\u00e9us para noivas",
+        "product_desc": "Chap\u00e9u para noivas"
+    },
+    "NA-CO": {
+        "code": "NA-CO",
+        "customer": "noivas",
+        "occasion": "acess\u00f3rios",
+        "subcategory": "Convites",
+        "cat_desc": "Convites para noivas",
+        "product_desc": "Convite para noivados"
+    },
+    "NA-CR": {
+        "code": "NA-CR",
+        "customer": "noivas",
+        "occasion": "acess\u00f3rios",
+        "subcategory": "Carteiras",
+        "cat_desc": "Carteiras para noivas",
+        "product_desc": "Carteira para noivas"
+    },
+    "NA-LV": {
+        "code": "NA-LV",
+        "customer": "noivas",
+        "occasion": "acess\u00f3rios",
+        "subcategory": "Luvas",
+        "cat_desc": "Luvas para noivas",
+        "product_desc": "Luvas para noivas"
+    },
+    "NA-VE": {
+        "code": "NA-VE",
+        "customer": "noivas",
+        "occasion": "acess\u00f3rios",
+        "subcategory": "V\u00e9us",
+        "cat_desc": "V\u00e9us para noivas",
+        "product_desc": "V\u00e9u"
+    },
+    "NA-XA": {
+        "code": "NA-XA",
+        "customer": "noivas",
+        "occasion": "acess\u00f3rios",
+        "subcategory": "Xailes",
+        "cat_desc": "Xailes para noivas",
+        "product_desc": "Xaile para noivas"
+    },
+    "NH-SP": {
+        "code": "NH-SP",
+        "customer": "noivas",
+        "occasion": "Anjinhos",
+        "subcategory": "Sapatos",
+        "cat_desc": "Sapatos para noivas",
+        "product_desc": "Sapatos para anjinhos"
+    },
+    "NH-SD": {
+        "code": "NH-SD",
+        "customer": "noivas",
+        "occasion": "Anjinhos",
+        "subcategory": "Sand\u00e1lias",
+        "cat_desc": "Sand\u00e1lias para noivas",
+        "product_desc": "Sandalias para anjinhos"
+    },
+    "NH-ME": {
+        "code": "NH-ME",
+        "customer": "noivas",
+        "occasion": "Anjinhos",
+        "subcategory": "Meias de Vidro",
+        "cat_desc": "Meias de Vidro para noivas",
+        "product_desc": "Meia de Vidro"
+    },
+    "NH-VE": {
+        "code": "NH-VE",
+        "customer": "noivas",
+        "occasion": "Anjinhos",
+        "subcategory": "V\u00e9us",
+        "cat_desc": "V\u00e9us para noivas",
+        "product_desc": "V\u00e9u"
+    },
+    "NH-VT": {
+        "code": "NH-VT",
+        "customer": "noivas",
+        "occasion": "Anjinhos",
+        "subcategory": "Vestidos",
+        "cat_desc": "Vestidos para noivas",
+        "product_desc": "Vestido para anjinhos"
+    },
+    "NB-AN": {
+        "code": "NB-AN",
+        "customer": "noivas",
+        "occasion": "Bijuteria",
+        "subcategory": "An\u00e9is",
+        "cat_desc": "An\u00e9is para noivas",
+        "product_desc": "Anel para noivas"
+    },
+    "NB-BH": {
+        "code": "NB-BH",
+        "customer": "noivas",
+        "occasion": "Bijuteria",
+        "subcategory": "Broches",
+        "cat_desc": "Broches para noivas",
+        "product_desc": "Broche para noivas"
+    },
+    "NB-BR": {
+        "code": "NB-BR",
+        "customer": "noivas",
+        "occasion": "Bijuteria",
+        "subcategory": "Brincos",
+        "cat_desc": "Brincos para noivas",
+        "product_desc": "Brinco para noivas"
+    },
+    "NB-CL": {
+        "code": "NB-CL",
+        "customer": "noivas",
+        "occasion": "Bijuteria",
+        "subcategory": "Colares",
+        "cat_desc": "Colares para noivas",
+        "product_desc": "Colar para noivas"
+    },
+    "NB-CT": {
+        "code": "NB-CT",
+        "customer": "noivas",
+        "occasion": "Bijuteria",
+        "subcategory": "Conjuntos",
+        "cat_desc": "Conjuntos para noivas",
+        "product_desc": "Conjunto para noivas"
+    },
+    "NB-EL": {
+        "code": "NB-EL",
+        "customer": "noivas",
+        "occasion": "Bijuteria",
+        "subcategory": "Braceletes",
+        "cat_desc": "Braceletes para noivas",
+        "product_desc": "Bracelete para noivas"
+    },
+    "NB-PL": {
+        "code": "NB-PL",
+        "customer": "noivas",
+        "occasion": "Bijuteria",
+        "subcategory": "Pulseiras",
+        "cat_desc": "Pulseiras para noivas",
+        "product_desc": "Pulseira para noivas"
+    },
+    "NB-TZ": {
+        "code": "NB-TZ",
+        "customer": "noivas",
+        "occasion": "Bijuteria",
+        "subcategory": "Tornozeleiras",
+        "cat_desc": "Tornozeleiras para noivas",
+        "product_desc": "Tornozeleira para noivas"
+    },
+    "NC-CN": {
+        "code": "NC-CN",
+        "customer": "noivas",
+        "occasion": "Cal\u00e7ado",
+        "subcategory": "Chinelas",
+        "cat_desc": "Chinelas para noivas",
+        "product_desc": "Chinelas para noivas"
+    },
+    "NC-BT": {
+        "code": "NC-BT",
+        "customer": "noivas",
+        "occasion": "Cal\u00e7ado",
+        "subcategory": "Botas",
+        "cat_desc": "Botas para noivas",
+        "product_desc": "Botas para noivas"
+    },
+    "NC-SD": {
+        "code": "NC-SD",
+        "customer": "noivas",
+        "occasion": "Cal\u00e7ado",
+        "subcategory": "Sand\u00e1lias",
+        "cat_desc": "Sand\u00e1lias para noivas",
+        "product_desc": "Sand\u00e1lias para noivas"
+    },
+    "NC-SP": {
+        "code": "NC-SP",
+        "customer": "noivas",
+        "occasion": "Cal\u00e7ado",
+        "subcategory": "Sapatos",
+        "cat_desc": "Sapatos para noivas",
+        "product_desc": "Sapato para noivas"
+    },
+    "NC-TN": {
+        "code": "NC-TN",
+        "customer": "noivas",
+        "occasion": "Cal\u00e7ado",
+        "subcategory": "T\u00e9nis",
+        "cat_desc": "T\u00e9nis para noivas",
+        "product_desc": "T\u00e9nis para noivas"
+    },
+    "ND-VT": {
+        "code": "ND-VT",
+        "customer": "noivas",
+        "occasion": "Damas",
+        "subcategory": "Vestidos",
+        "cat_desc": "Vestidos para noivas",
+        "product_desc": "Vestido para damas"
+    },
+    "NJ-AN": {
+        "code": "NJ-AN",
+        "customer": "noivas",
+        "occasion": "J\u00f3ias",
+        "subcategory": "Aneis",
+        "cat_desc": "Anéis de Noviado",
+        "product_desc": "Anel para noivas"
+    },
+    "NJ-BH": {
+        "code": "NJ-BH",
+        "customer": "noivas",
+        "occasion": "J\u00f3ias",
+        "subcategory": "Broches",
+        "cat_desc": "Broches para noivas",
+        "product_desc": "Broche para noivas"
+    },
+    "NJ-BR": {
+        "code": "NJ-BR",
+        "customer": "noivas",
+        "occasion": "J\u00f3ias",
+        "subcategory": "Brincos",
+        "cat_desc": "Brincos para noivas",
+        "product_desc": "Brinco para noivas"
+    },
+    "NJ-CL": {
+        "code": "NJ-CL",
+        "customer": "noivas",
+        "occasion": "J\u00f3ias",
+        "subcategory": "Colares",
+        "cat_desc": "Colares para noivas",
+        "product_desc": "Colar para noivas"
+    },
+    "NJ-CT": {
+        "code": "NJ-CT",
+        "customer": "noivas",
+        "occasion": "J\u00f3ias",
+        "subcategory": "Conjuntos",
+        "cat_desc": "Conjuntos para noivas",
+        "product_desc": "Conjunto para noivas"
+    },
+    "NJ-EL": {
+        "code": "NJ-EL",
+        "customer": "noivas",
+        "occasion": "J\u00f3ias",
+        "subcategory": "Braceletes",
+        "cat_desc": "Braceletes para noivas",
+        "product_desc": "Bracelete para noivas"
+    },
+    "NJ-PL": {
+        "code": "NJ-PL",
+        "customer": "noivas",
+        "occasion": "J\u00f3ias",
+        "subcategory": "Pulseiras",
+        "cat_desc": "Pulseiras para noivas",
+        "product_desc": "Pulseira para noivas"
+    },
+    "NJ-TZ": {
+        "code": "NJ-TZ",
+        "customer": "noivas",
+        "occasion": "J\u00f3ias",
+        "subcategory": "Tornozeleiras",
+        "cat_desc": "Tornozeleiras para noivas",
+        "product_desc": "Tornozeleira para noivas"
+    },
+    "NL-AR": {
+        "code": "NL-AR",
+        "customer": "noivas",
+        "occasion": "Lingerie e Praia",
+        "subcategory": "Arma\u00e7\u00f5es",
+        "cat_desc": "Arma\u00e7\u00f5es  para noivas",
+        "product_desc": "Arma\u00e7\u00f5es para noivas"
+    },
+    "NL-BI": {
+        "code": "NL-BI",
+        "customer": "noivas",
+        "occasion": "Lingerie e Praia",
+        "subcategory": "Bikinis",
+        "cat_desc": "Bikinis para noivas",
+        "product_desc": "Bikini para senhoras"
+    },
+    "NL-CD": {
+        "code": "NL-CD",
+        "customer": "noivas",
+        "occasion": "Lingerie e Praia",
+        "subcategory": "Camisas de noite",
+        "cat_desc": "Camisas de noite para noivas",
+        "product_desc": "Camisa de Noite para senhoras"
+    },
+    "NL-CT": {
+        "code": "NL-CT",
+        "customer": "noivas",
+        "occasion": "Lingerie e Praia",
+        "subcategory": "Conjuntos",
+        "cat_desc": "Conjuntos para noivas",
+        "product_desc": "Conjunto para senhoras"
+    },
+    "NL-ES": {
+        "code": "NL-ES",
+        "customer": "noivas",
+        "occasion": "Lingerie e Praia",
+        "subcategory": "Espartilhos",
+        "cat_desc": "Espartilhos para noivas",
+        "product_desc": "Espartilho para senhoras"
+    },
+    "NL-FB": {
+        "code": "NL-FB",
+        "customer": "noivas",
+        "occasion": "Lingerie e Praia",
+        "subcategory": "Fatos de banho",
+        "cat_desc": "Fatos de banho para noivas",
+        "product_desc": "Fato de Banho para senhoras"
+    },
+    "NL-LG": {
+        "code": "NL-LG",
+        "customer": "noivas",
+        "occasion": "Lingerie e Praia",
+        "subcategory": "Cinta-ligas",
+        "cat_desc": "Cinta-ligas para noivas",
+        "product_desc": "Cinta-liga para senhoras"
+    },
+    "NL-MB": {
+        "code": "NL-MB",
+        "customer": "noivas",
+        "occasion": "Lingerie e Praia",
+        "subcategory": "Combina\u00e7\u00f5es",
+        "cat_desc": "Combina\u00e7\u00f5es para noivas",
+        "product_desc": "Combina\u00e7\u00e3o para senhoras"
+    },
+    "NL-ME": {
+        "code": "NL-ME",
+        "customer": "noivas",
+        "occasion": "Lingerie e Praia",
+        "subcategory": "Meias de vidro",
+        "cat_desc": "Meias de vidro para noivas",
+        "product_desc": "Meia de Vidro para senhoras"
+    },
+    "NL-SI": {
+        "code": "NL-SI",
+        "customer": "noivas",
+        "occasion": "Lingerie e Praia",
+        "subcategory": "Saiotes",
+        "cat_desc": "Saiotes para noivas",
+        "product_desc": "Saiote"
+    },
+    "NL-SU": {
+        "code": "NL-SU",
+        "customer": "noivas",
+        "occasion": "Lingerie e Praia",
+        "subcategory": "Soutiens",
+        "cat_desc": "Soutiens para noivas",
+        "product_desc": "Soutien para senhoras"
+    },
+    "NL-TA": {
+        "code": "NL-TA",
+        "customer": "noivas",
+        "occasion": "Lingerie e Praia",
+        "subcategory": "Cintas",
+        "cat_desc": "Cintas para noivas",
+        "product_desc": "Cinta para senhoras"
+    },
+    "NL-TG": {
+        "code": "NL-TG",
+        "customer": "noivas",
+        "occasion": "Lingerie e Praia",
+        "subcategory": "Tangas",
+        "cat_desc": "Tangas para noivas",
+        "product_desc": "Tanga para senhoras"
+    },
+    "NR-CS": {
+        "code": "NR-CS",
+        "customer": "noivas",
+        "occasion": "roupa",
+        "subcategory": "Casacos",
+        "cat_desc": "Casacos para noivas",
+        "product_desc": "Casaco para noivas"
+    },
+    "NR-BO": {
+        "code": "NR-BO",
+        "customer": "noivas",
+        "occasion": "roupa",
+        "subcategory": "Boleros",
+        "cat_desc": "Boleros para noivas",
+        "product_desc": "Bolero para noivas"
+    },
+    "NR-VT": {
+        "code": "NR-VT",
+        "customer": "noivas",
+        "occasion": "roupa",
+        "subcategory": "Vestidos",
+        "cat_desc": "Vestidos para noivas",
+        "product_desc": "Vestido para noivas"
+    },
+    "MA-CB": {
+        "code": "MA-CB",
+        "customer": "senhoras",
+        "occasion": "Acess\u00f3rios",
+        "subcategory": "Acess\u00f3rios de cabelo",
+        "cat_desc": "Acess\u00f3rios de cabelo para senhoras",
+        "product_desc": "Acess\u00f3rios de cabelo para senhoras"
+    },
+    "MA-CH": {
+        "code": "MA-CH",
+        "customer": "senhoras",
+        "occasion": "Acess\u00f3rios",
+        "subcategory": "Chap\u00e9us",
+        "cat_desc": "Chap\u00e9us para senhoras",
+        "product_desc": "Chap\u00e9u para senhoras"
+    },
+    "MA-CI": {
+        "code": "MA-CI",
+        "customer": "senhoras",
+        "occasion": "Acess\u00f3rios",
+        "subcategory": "Cintos",
+        "cat_desc": "Cintos para senhoras",
+        "product_desc": "Cinto para senhoras"
+    },
+    "MA-CR": {
+        "code": "MA-CR",
+        "customer": "senhoras",
+        "occasion": "Acess\u00f3rios",
+        "subcategory": "Carteiras",
+        "cat_desc": "Carteiras para senhoras",
+        "product_desc": "Carteira para senhoras"
+    },
+    "MA-LN": {
+        "code": "MA-LN",
+        "customer": "senhoras",
+        "occasion": "Acess\u00f3rios",
+        "subcategory": "Len\u00e7os",
+        "cat_desc": "Len\u00e7os para senhoras",
+        "product_desc": "Len\u00e7o para senhoras"
+    },
+    "MA-LV": {
+        "code": "MA-LV",
+        "customer": "senhoras",
+        "occasion": "Acess\u00f3rios",
+        "subcategory": "Luvas",
+        "cat_desc": "Luvas para senhoras",
+        "product_desc": "Luvas para senhoras"
+    },
+    "MA-OC": {
+        "code": "MA-OC",
+        "customer": "senhoras",
+        "occasion": "Acess\u00f3rios",
+        "subcategory": "\u00d3culos escuros",
+        "cat_desc": "\u00d3culos escuros para senhoras",
+        "product_desc": "\u00d3culos escuros para senhoras"
+    },
+    "MA-PT": {
+        "code": "MA-PT",
+        "customer": "senhoras",
+        "occasion": "Acess\u00f3rios",
+        "subcategory": "Pastas",
+        "cat_desc": "Pastas para senhoras",
+        "product_desc": "Pasta para senhoras"
+    },
+    "MA-RE": {
+        "code": "MA-RE",
+        "customer": "senhoras",
+        "occasion": "Acess\u00f3rios",
+        "subcategory": "rel\u00f3gios",
+        "cat_desc": "rel\u00f3gios para senhoras",
+        "product_desc": "Rel\u00f3gio para senhoras"
+    },
+    "MA-SS": {
+        "code": "MA-SS",
+        "customer": "senhoras",
+        "occasion": "Acess\u00f3rios",
+        "subcategory": "Suspens\u00f3rios",
+        "cat_desc": "Suspens\u00f3rios para senhoras",
+        "product_desc": "Suspens\u00f3rios  para senhoras"
+    },
+    "MA-TL": {
+        "code": "MA-TL",
+        "customer": "senhoras",
+        "occasion": "Acess\u00f3rios",
+        "subcategory": "Porta-telefones",
+        "cat_desc": "Porta-telefones para senhoras",
+        "product_desc": "Porta Telefone para senhoras"
+    },
+    "MB-AN": {
+        "code": "MB-AN",
+        "customer": "senhoras",
+        "occasion": "Bijuteria",
+        "subcategory": "An\u00e9is",
+        "cat_desc": "An\u00e9is para senhoras",
+        "product_desc": "Anel para senhoras"
+    },
+    "MB-BH": {
+        "code": "MB-BH",
+        "customer": "senhoras",
+        "occasion": "Bijuteria",
+        "subcategory": "Broches",
+        "cat_desc": "Broches para senhoras",
+        "product_desc": "Broche para senhoras"
+    },
+    "MB-BR": {
+        "code": "MB-BR",
+        "customer": "senhoras",
+        "occasion": "Bijuteria",
+        "subcategory": "Brincos",
+        "cat_desc": "Brincos para senhoras",
+        "product_desc": "Brinco para senhoras"
+    },
+    "MB-CB": {
+        "code": "MB-CB",
+        "customer": "senhoras",
+        "occasion": "Bijuteria",
+        "subcategory": "Acess\u00f3rios de cabelo",
+        "cat_desc": "Acess\u00f3rios de cabelo para senhoras",
+        "product_desc": "Acess\u00f3rios de cabelo para senhoras"
+    },
+    "MB-CL": {
+        "code": "MB-CL",
+        "customer": "senhoras",
+        "occasion": "Bijuteria",
+        "subcategory": "Colares",
+        "cat_desc": "Colares para senhoras",
+        "product_desc": "Colar para senhoras"
+    },
+    "MB-CT": {
+        "code": "MB-CT",
+        "customer": "senhoras",
+        "occasion": "Bijuteria",
+        "subcategory": "Conjuntos",
+        "cat_desc": "Conjuntos para senhoras",
+        "product_desc": "Conjunto para senhoras"
+    },
+    "MB-EL": {
+        "code": "MB-EL",
+        "customer": "senhoras",
+        "occasion": "Bijuteria",
+        "subcategory": "Braceletes",
+        "cat_desc": "Braceletes para senhoras",
+        "product_desc": "Bracelete para senhoras"
+    },
+    "MB-PL": {
+        "code": "MB-PL",
+        "customer": "senhoras",
+        "occasion": "Bijuteria",
+        "subcategory": "Pulseiras",
+        "cat_desc": "Pulseiras para senhoras",
+        "product_desc": "Pulseira para senhoras"
+    },
+    "MB-TZ": {
+        "code": "MB-TZ",
+        "customer": "senhoras",
+        "occasion": "Bijuteria",
+        "subcategory": "Tornozeleiras",
+        "cat_desc": "Tornozeleiras para senhoras",
+        "product_desc": "Tornozeleira para senhoras"
+    },
+    "MC-BT": {
+        "code": "MC-BT",
+        "customer": "senhoras",
+        "occasion": "Cal\u00e7ado",
+        "subcategory": "Botas",
+        "cat_desc": "Botas para senhoras",
+        "product_desc": "Botas para senhoras"
+    },
+    "MC-CN": {
+        "code": "MC-CN",
+        "customer": "senhoras",
+        "occasion": "Cal\u00e7ado",
+        "subcategory": "Chinelas",
+        "cat_desc": "Chinelas para senhoras",
+        "product_desc": "Chinelas para senhoras"
+    },
+    "MC-PA": {
+        "code": "MC-PA",
+        "customer": "senhoras",
+        "occasion": "Cal\u00e7ado",
+        "subcategory": "Pantufas",
+        "cat_desc": "Pantufas para senhoras",
+        "product_desc": "Pantufas para senhoras"
+    },
+    "MC-PU": {
+        "code": "MC-PU",
+        "customer": "senhoras",
+        "occasion": "Cal\u00e7ado",
+        "subcategory": "pe\u00fagas",
+        "cat_desc": "pe\u00fagas para senhoras",
+        "product_desc": "Pe\u00fagas para senhoras"
+    },
+    "MC-SB": {
+        "code": "MC-SB",
+        "customer": "senhoras",
+        "occasion": "Cal\u00e7ado",
+        "subcategory": "Sabrinas",
+        "cat_desc": "Sabrinas para senhoras",
+        "product_desc": "Sabrinas"
+    },
+    "MC-SD": {
+        "code": "MC-SD",
+        "customer": "senhoras",
+        "occasion": "Cal\u00e7ado",
+        "subcategory": "Sand\u00e1lias",
+        "cat_desc": "Sand\u00e1lias para senhoras",
+        "product_desc": "Sand\u00e1lias para senhoras"
+    },
+    "MC-SP": {
+        "code": "MC-SP",
+        "customer": "senhoras",
+        "occasion": "Cal\u00e7ado",
+        "subcategory": "Sapatos",
+        "cat_desc": "Sapatos para senhoras",
+        "product_desc": "Sapato para senhoras"
+    },
+    "MC-ST": {
+        "code": "MC-ST",
+        "customer": "senhoras",
+        "occasion": "Cal\u00e7ado",
+        "subcategory": "Sapatilhas",
+        "cat_desc": "Sapatilhas para senhoras",
+        "product_desc": "Sapatilhas para senhoras"
+    },
+    "MC-TN": {
+        "code": "MC-TN",
+        "customer": "senhoras",
+        "occasion": "Cal\u00e7ado",
+        "subcategory": "T\u00e9nis",
+        "cat_desc": "T\u00e9nis para senhoras",
+        "product_desc": "T\u00e9nis para senhoras"
+    },
+    "MR-AO": {
+        "code": "MR-AO",
+        "customer": "senhoras",
+        "occasion": "Casual",
+        "subcategory": "Calc\u00f5es",
+        "cat_desc": "Calc\u00f5es para senhoras",
+        "product_desc": "Calc\u00f5es Casuais para senhoras"
+    },
+    "MR-BL": {
+        "code": "MR-BL",
+        "customer": "senhoras",
+        "occasion": "Casual",
+        "subcategory": "Blusas",
+        "cat_desc": "Blusas para senhoras",
+        "product_desc": "Blusa para senhoras"
+    },
+    "MR-BM": {
+        "code": "MR-BM",
+        "customer": "senhoras",
+        "occasion": "Casual",
+        "subcategory": "Bermudas",
+        "cat_desc": "Bermudas para senhoras",
+        "product_desc": "Bermudas para senhoras"
+    },
+    "MR-BO": {
+        "code": "MR-BO",
+        "customer": "senhoras",
+        "occasion": "Casual",
+        "subcategory": "Boleros",
+        "cat_desc": "Boleros para senhoras",
+        "product_desc": "Bolero para senhoras"
+    },
+    "MR-CC": {
+        "code": "MR-CC",
+        "customer": "senhoras",
+        "occasion": "Casual",
+        "subcategory": "Cal\u00e7as",
+        "cat_desc": "Cal\u00e7as para senhoras",
+        "product_desc": "Cal\u00e7as para senhoras"
+    },
+    "MR-CM": {
+        "code": "MR-CM",
+        "customer": "senhoras",
+        "occasion": "Casual",
+        "subcategory": "Camisolas",
+        "cat_desc": "Camisolas para senhoras",
+        "product_desc": "Camisola para senhoras"
+    },
+    "MR-CS": {
+        "code": "MR-CS",
+        "customer": "senhoras",
+        "occasion": "Casual",
+        "subcategory": "Casacos",
+        "cat_desc": "Casacos para senhoras",
+        "product_desc": "Casaco para senhoras"
+    },
+    "MR-FT": {
+        "code": "MR-FT",
+        "customer": "senhoras",
+        "occasion": "Casual",
+        "subcategory": "Fatos",
+        "cat_desc": "Fatos para senhoras",
+        "product_desc": "Fato para senhoras"
+    },
+    "MR-GG": {
+        "code": "MR-GG",
+        "customer": "senhoras",
+        "occasion": "Casual",
+        "subcategory": "Leggings",
+        "cat_desc": "Leggings para senhoras",
+        "product_desc": "Leggings Casuais"
+    },
+    "MR-MC": {
+        "code": "MR-MC",
+        "customer": "senhoras",
+        "occasion": "Casual",
+        "subcategory": "Macac\u00f5es",
+        "cat_desc": "Macac\u00f5es para senhoras",
+        "product_desc": "Macac\u00e3o para senhoras"
+    },
+    "MR-MI": {
+        "code": "MR-MI",
+        "customer": "senhoras",
+        "occasion": "Casual",
+        "subcategory": "Camisetes",
+        "cat_desc": "Camisetes para senhoras",
+        "product_desc": "Camisete Casual"
+    },
+    "MR-SA": {
+        "code": "MR-SA",
+        "customer": "senhoras",
+        "occasion": "Casual",
+        "subcategory": "Saias",
+        "cat_desc": "Saias para senhoras",
+        "product_desc": "Saia para senhoras"
+    },
+    "MR-VT": {
+        "code": "MR-VT",
+        "customer": "senhoras",
+        "occasion": "Casual",
+        "subcategory": "Vestidos",
+        "cat_desc": "Vestidos para senhoras",
+        "product_desc": "Vestido para senhoras"
+    },
+    "ME-BL": {
+        "code": "ME-BL",
+        "customer": "senhoras",
+        "occasion": "Executivo",
+        "subcategory": "Blusas",
+        "cat_desc": "Blusas para senhoras",
+        "product_desc": "Blusa Executiva"
+    },
+    "ME-BM": {
+        "code": "ME-BM",
+        "customer": "senhoras",
+        "occasion": "Executivo",
+        "subcategory": "Bermudas",
+        "cat_desc": "Bermudas para senhoras",
+        "product_desc": "Bermudas Executivas para senhoras"
+    },
+    "ME-BZ": {
+        "code": "ME-BZ",
+        "customer": "senhoras",
+        "occasion": "Executivo",
+        "subcategory": "Blazers",
+        "cat_desc": "Blazers para senhoras",
+        "product_desc": "Blazer Executivo para senhoras"
+    },
+    "ME-CC": {
+        "code": "ME-CC",
+        "customer": "senhoras",
+        "occasion": "Executivo",
+        "subcategory": "Cal\u00e7as",
+        "cat_desc": "Cal\u00e7as para senhoras",
+        "product_desc": "Cal\u00e7as Executivas para senhoras"
+    },
+    "ME-CS": {
+        "code": "ME-CS",
+        "customer": "senhoras",
+        "occasion": "Executivo",
+        "subcategory": "Casacos",
+        "cat_desc": "Casacos para senhoras",
+        "product_desc": "Casaco Executivo para senhoras"
+    },
+    "ME-FT": {
+        "code": "ME-FT",
+        "customer": "senhoras",
+        "occasion": "Executivo",
+        "subcategory": "Fatos",
+        "cat_desc": "Fatos para senhoras",
+        "product_desc": "Fato Executivo para senhoras"
+    },
+    "ME-MI": {
+        "code": "ME-MI",
+        "customer": "senhoras",
+        "occasion": "Executivo",
+        "subcategory": "Camisetes",
+        "cat_desc": "Camisetes para senhoras",
+        "product_desc": "Camisete Executivo"
+    },
+    "ME-SA": {
+        "code": "ME-SA",
+        "customer": "senhoras",
+        "occasion": "Festas e Noite",
+        "subcategory": "Saias",
+        "cat_desc": "Saias para senhoras",
+        "product_desc": "Saia para festas"
+    },
+    "ME-VT": {
+        "code": "ME-VT",
+        "customer": "senhoras",
+        "occasion": "Executivo",
+        "subcategory": "Vestidos",
+        "cat_desc": "Vestidos para senhoras",
+        "product_desc": "Vestido Executivo"
+    },
+    "MF-BL": {
+        "code": "MF-BL",
+        "customer": "senhoras",
+        "occasion": "Festas e Noite",
+        "subcategory": "Blusas",
+        "cat_desc": "Blusas para senhoras",
+        "product_desc": "Blusa para festas"
+    },
+    "MF-ES": {
+        "code": "MF-ES",
+        "customer": "senhoras",
+        "occasion": "Festas e Noite",
+        "subcategory": "Espartilhos",
+        "cat_desc": "Espartilhos para senhoras",
+        "product_desc": "Espartilho para festas"
+    },
+    "MF-FT": {
+        "code": "MF-FT",
+        "customer": "senhoras",
+        "occasion": "Festas e Noite",
+        "subcategory": "Fatos",
+        "cat_desc": "Fatos para senhoras",
+        "product_desc": "Fato para festas"
+    },
+    "MF-VT": {
+        "code": "MF-VT",
+        "customer": "senhoras",
+        "occasion": "Festas e Noite",
+        "subcategory": "Vestidos",
+        "cat_desc": "Vestidos para senhoras",
+        "product_desc": "Vestido para festas"
+    },
+    "MG-BL": {
+        "code": "MG-BL",
+        "customer": "senhoras",
+        "occasion": "Gala",
+        "subcategory": "Blusas",
+        "cat_desc": "Blusas para senhoras",
+        "product_desc": "Blusa de Gala"
+    },
+    "MG-CS": {
+        "code": "MG-CS",
+        "customer": "senhoras",
+        "occasion": "Gala",
+        "subcategory": "Casacos",
+        "cat_desc": "Casacos para senhoras",
+        "product_desc": "Casaco de Gala para senhoras"
+    },
+    "MG-FT": {
+        "code": "MG-FT",
+        "customer": "senhoras",
+        "occasion": "Gala",
+        "subcategory": "Fatos",
+        "cat_desc": "Fatos para senhoras",
+        "product_desc": "Fato de Gala para senhoras"
+    },
+    "MG-SA": {
+        "code": "MG-SA",
+        "customer": "senhoras",
+        "occasion": "Gala",
+        "subcategory": "Saias",
+        "cat_desc": "Saias para senhoras",
+        "product_desc": "Saia de Gala"
+    },
+    "MG-VT": {
+        "code": "MG-VT",
+        "customer": "senhoras",
+        "occasion": "Gala",
+        "subcategory": "Vestidos",
+        "cat_desc": "Vestidos para senhoras",
+        "product_desc": "Vestido de Gala"
+    },
+    "MJ-AN": {
+        "code": "MJ-AN",
+        "customer": "senhoras",
+        "occasion": "Joias",
+        "subcategory": "An\u00e9is",
+        "cat_desc": "An\u00e9is para senhoras",
+        "product_desc": "Anel para senhoras"
+    },
+    "MJ-BH": {
+        "code": "MJ-BH",
+        "customer": "senhoras",
+        "occasion": "Joias",
+        "subcategory": "Broches",
+        "cat_desc": "Broches para senhoras",
+        "product_desc": "Broche para senhoras"
+    },
+    "MJ-BR": {
+        "code": "MJ-BR",
+        "customer": "senhoras",
+        "occasion": "Joias",
+        "subcategory": "Brincos",
+        "cat_desc": "Brincos para senhoras",
+        "product_desc": "Brinco para senhoras"
+    },
+    "MJ-CB": {
+        "code": "MJ-CB",
+        "customer": "senhoras",
+        "occasion": "Joias",
+        "subcategory": "Acess\u00f3rios de cabelo",
+        "cat_desc": "Acess\u00f3rios de cabelo para senhoras",
+        "product_desc": "Acess\u00f3rios de cabelo para senhoras"
+    },
+    "MJ-CL": {
+        "code": "MJ-CL",
+        "customer": "senhoras",
+        "occasion": "Joias",
+        "subcategory": "Colares",
+        "cat_desc": "Colares para senhoras",
+        "product_desc": "Colar para senhoras"
+    },
+    "MJ-CT": {
+        "code": "MJ-CT",
+        "customer": "senhoras",
+        "occasion": "Joias",
+        "subcategory": "Conjuntos",
+        "cat_desc": "Conjuntos para senhoras",
+        "product_desc": "Conjunto para senhoras"
+    },
+    "MJ-EL": {
+        "code": "MJ-EL",
+        "customer": "senhoras",
+        "occasion": "Joias",
+        "subcategory": "Braceletes",
+        "cat_desc": "Braceletes para senhoras",
+        "product_desc": "Bracelete para senhoras"
+    },
+    "MJ-PL": {
+        "code": "MJ-PL",
+        "customer": "senhoras",
+        "occasion": "Joias",
+        "subcategory": "Pulseiras",
+        "cat_desc": "Pulseiras para senhoras",
+        "product_desc": "Pulseira para senhoras"
+    },
+    "MJ-TZ": {
+        "code": "MJ-TZ",
+        "customer": "senhoras",
+        "occasion": "Joias",
+        "subcategory": "Tornozeleiras",
+        "cat_desc": "Tornozeleiras para senhoras",
+        "product_desc": "Tornozeleira para senhoras"
+    },
+    "ML-BI": {
+        "code": "ML-BI",
+        "customer": "senhoras",
+        "occasion": "Lingerie e Praia",
+        "subcategory": "Bikinis",
+        "cat_desc": "Bikinis",
+        "product_desc": "Bikini para senhoras"
+    },
+    "ML-CD": {
+        "code": "ML-CD",
+        "customer": "senhoras",
+        "occasion": "Lingerie e Praia",
+        "subcategory": "Camisas de noite",
+        "cat_desc": "Camisas de noite para senhoras",
+        "product_desc": "Camisa de Noite para senhoras"
+    },
+    "ML-CT": {
+        "code": "ML-CT",
+        "customer": "senhoras",
+        "occasion": "Lingerie e Praia",
+        "subcategory": "Conjuntos",
+        "cat_desc": "Conjuntos para senhoras",
+        "product_desc": "Conjunto para senhoras"
+    },
+    "ML-ES": {
+        "code": "ML-ES",
+        "customer": "senhoras",
+        "occasion": "Lingerie e Praia",
+        "subcategory": "Espartilhos",
+        "cat_desc": "Espartilhos para senhoras",
+        "product_desc": "Espartilho para senhoras"
+    },
+    "ML-FB": {
+        "code": "ML-FB",
+        "customer": "senhoras",
+        "occasion": "Lingerie e Praia",
+        "subcategory": "Fatos de banho",
+        "cat_desc": "Fatos de banho para senhoras",
+        "product_desc": "Fato de Banho para senhoras"
+    },
+    "ML-LG": {
+        "code": "ML-LG",
+        "customer": "senhoras",
+        "occasion": "Lingerie e Praia",
+        "subcategory": "Cinta-ligas",
+        "cat_desc": "Cinta-ligas para senhoras",
+        "product_desc": "Cinta-liga para senhoras"
+    },
+    "ML-MB": {
+        "code": "ML-MB",
+        "customer": "senhoras",
+        "occasion": "Lingerie e Praia",
+        "subcategory": "Combina\u00e7\u00f5es",
+        "cat_desc": "Combina\u00e7\u00f5es para senhoras",
+        "product_desc": "Combina\u00e7\u00e3o para senhoras"
+    },
+    "ML-ME": {
+        "code": "ML-ME",
+        "customer": "senhoras",
+        "occasion": "Lingerie e Praia",
+        "subcategory": "Meias de vidro",
+        "cat_desc": "Meias de vidro para senhoras",
+        "product_desc": "Meia de Vidro para senhoras"
+    },
+    "ML-SI": {
+        "code": "ML-SI",
+        "customer": "senhoras",
+        "occasion": "Lingerie e Praia",
+        "subcategory": "Saiotes",
+        "cat_desc": "Saiotes para senhoras",
+        "product_desc": "Saiote"
+    },
+    "ML-SU": {
+        "code": "ML-SU",
+        "customer": "senhoras",
+        "occasion": "Lingerie e Praia",
+        "subcategory": "Soutiens",
+        "cat_desc": "Soutiens para senhoras",
+        "product_desc": "Soutien para senhoras"
+    },
+    "ML-TA": {
+        "code": "ML-TA",
+        "customer": "senhoras",
+        "occasion": "Lingerie e Praia",
+        "subcategory": "Cintas",
+        "cat_desc": "Cintas para senhoras",
+        "product_desc": "Cinta para senhoras"
+    },
+    "ML-TG": {
+        "code": "ML-TG",
+        "customer": "senhoras",
+        "occasion": "Lingerie e Praia",
+        "subcategory": "Tangas",
+        "cat_desc": "Tangas para senhoras",
+        "product_desc": "Tanga para senhoras"
+    },
+    "HA-CB": {
+        "code": "HA-CB",
+        "customer": "senhores",
+        "occasion": "acess\u00f3rios",
+        "subcategory": "Acess\u00f3rios de cabelo",
+        "cat_desc": "Acess\u00f3rios de cabelo para senhores",
+        "product_desc": "Acess\u00f3rios de cabelo para senhores"
+    },
+    "HA-CH": {
+        "code": "HA-CH",
+        "customer": "senhores",
+        "occasion": "acess\u00f3rios",
+        "subcategory": "Chap\u00e9us",
+        "cat_desc": "Chap\u00e9us para senhores",
+        "product_desc": "Chap\u00e9u para senhores"
+    },
+    "HA-CI": {
+        "code": "HA-CI",
+        "customer": "senhores",
+        "occasion": "acess\u00f3rios",
+        "subcategory": "Cintos",
+        "cat_desc": "Cintos para senhores",
+        "product_desc": "Cinto para senhores"
+    },
+    "HA-CR": {
+        "code": "HA-CR",
+        "customer": "senhores",
+        "occasion": "acess\u00f3rios",
+        "subcategory": "Carteiras",
+        "cat_desc": "Carteiras para senhores",
+        "product_desc": "Carteira para senhores"
+    },
+    "HA-OC": {
+        "code": "HA-OC",
+        "customer": "senhores",
+        "occasion": "acess\u00f3rios",
+        "subcategory": "\u00d3culos escuros",
+        "cat_desc": "\u00d3culos escuros para senhores",
+        "product_desc": "\u00d3culos escuros para senhores"
+    },
+    "HA-PT": {
+        "code": "HA-PT",
+        "customer": "senhores",
+        "occasion": "acess\u00f3rios",
+        "subcategory": "Pastas",
+        "cat_desc": "Pastas para senhores",
+        "product_desc": "Pasta para senhores"
+    },
+    "HA-RE": {
+        "code": "HA-RE",
+        "customer": "senhores",
+        "occasion": "acess\u00f3rios",
+        "subcategory": "rel\u00f3gios",
+        "cat_desc": "rel\u00f3gios para senhores",
+        "product_desc": "Rel\u00f3gio para senhores"
+    },
+    "HA-SS": {
+        "code": "HA-SS",
+        "customer": "senhores",
+        "occasion": "acess\u00f3rios",
+        "subcategory": "Suspens\u00f3rios",
+        "cat_desc": "Suspens\u00f3rios para senhores",
+        "product_desc": "Suspens\u00f3rios  para senhores"
+    },
+    "HA-TL": {
+        "code": "HA-TL",
+        "customer": "senhores",
+        "occasion": "acess\u00f3rios",
+        "subcategory": "Portatelefones",
+        "cat_desc": "Portatelefones para senhores",
+        "product_desc": "Porta Telefone para senhores"
+    },
+    "HA-AB": {
+        "code": "HA-AB",
+        "customer": "senhores",
+        "occasion": "acess\u00f3rios",
+        "subcategory": "Abotoaduras",
+        "cat_desc": "Abotoaduras para senhores",
+        "product_desc": "Abotoadura para senhores"
+    },
+    "HC-BT": {
+        "code": "HC-BT",
+        "customer": "senhores",
+        "occasion": "Cal\u00e7ado",
+        "subcategory": "Botas",
+        "cat_desc": "Botas para senhores",
+        "product_desc": "Botas para senhores"
+    },
+    "HC-CN": {
+        "code": "HC-CN",
+        "customer": "senhores",
+        "occasion": "Cal\u00e7ado",
+        "subcategory": "Chinelas",
+        "cat_desc": "Chinelas para senhores",
+        "product_desc": "Chinelas para senhores"
+    },
+    "HC-PA": {
+        "code": "HC-PA",
+        "customer": "senhores",
+        "occasion": "Cal\u00e7ado",
+        "subcategory": "Pantufas",
+        "cat_desc": "Pantufas para senhores",
+        "product_desc": "Pantufas para senhores"
+    },
+    "HC-PU": {
+        "code": "HC-PU",
+        "customer": "senhores",
+        "occasion": "Cal\u00e7ado",
+        "subcategory": "Pe\u00fagas",
+        "cat_desc": "Pe\u00fagas para senhores",
+        "product_desc": "Pe\u00fagas para senhores"
+    },
+    "HC-SD": {
+        "code": "HC-SD",
+        "customer": "senhores",
+        "occasion": "Cal\u00e7ado",
+        "subcategory": "Sand\u00e1lias",
+        "cat_desc": "Sand\u00e1lias para senhores",
+        "product_desc": "Sand\u00e1lias para senhores"
+    },
+    "HC-SP": {
+        "code": "HC-SP",
+        "customer": "senhores",
+        "occasion": "Cal\u00e7ado",
+        "subcategory": "Sapatos",
+        "cat_desc": "Sapatos para senhores",
+        "product_desc": "Sapato para senhores"
+    },
+    "HC-ST": {
+        "code": "HC-ST",
+        "customer": "senhores",
+        "occasion": "Cal\u00e7ado",
+        "subcategory": "Sapatilhas",
+        "cat_desc": "Sapatilhas para senhores",
+        "product_desc": "Sapatilha para senhores"
+    },
+    "HC-TN": {
+        "code": "HC-TN",
+        "customer": "senhores",
+        "occasion": "Cal\u00e7ado",
+        "subcategory": "T\u00e9nis",
+        "cat_desc": "T\u00e9nis para senhores",
+        "product_desc": "T\u00e9nis para senhores"
+    },
+    "HA-CT": {
+        "code": "HA-CT",
+        "customer": "senhores",
+        "occasion": "Cerimonia e trabalho",
+        "subcategory": "Conjuntos",
+        "cat_desc": "Conjuntos para senhores",
+        "product_desc": "Conjunto para senhores"
+    },
+    "HA-FA": {
+        "code": "HA-FA",
+        "customer": "senhores",
+        "occasion": "Cerimonia e trabalho",
+        "subcategory": "Faixas",
+        "cat_desc": "Faixas para senhores",
+        "product_desc": "Faixa para senhores"
+    },
+    "HA-GR": {
+        "code": "HA-GR",
+        "customer": "senhores",
+        "occasion": "Cerimonia e trabalho",
+        "subcategory": "Gravatas",
+        "cat_desc": "Gravatas para senhores",
+        "product_desc": "Gravata para senhores"
+    },
+    "HA-LA": {
+        "code": "HA-LA",
+        "customer": "senhores",
+        "occasion": "Cerimonia e trabalho",
+        "subcategory": "La\u00e7os",
+        "cat_desc": "La\u00e7os para senhores",
+        "product_desc": "La\u00e7o para senhores"
+    },
+    "HA-LN": {
+        "code": "HA-LN",
+        "customer": "senhores",
+        "occasion": "Cerimonia e trabalho",
+        "subcategory": "Len\u00e7os de bolso",
+        "cat_desc": "Len\u00e7os de bolso para senhores",
+        "product_desc": "Len\u00e7o de Bolso para senhores"
+    },
+    "HF-BZ": {
+        "code": "HF-BZ",
+        "customer": "senhores",
+        "occasion": "Cerimonia e trabalho",
+        "subcategory": "Blazers",
+        "cat_desc": "Blazers para senhores",
+        "product_desc": "Blazer para senhores"
+    },
+    "HF-CA": {
+        "code": "HF-CA",
+        "customer": "senhores",
+        "occasion": "Cerimonia e trabalho",
+        "subcategory": "Camisas",
+        "cat_desc": "Camisas para senhores",
+        "product_desc": "Camisa para senhores"
+    },
+    "HF-CC": {
+        "code": "HF-CC",
+        "customer": "senhores",
+        "occasion": "Cerimonia e trabalho",
+        "subcategory": "Cal\u00e7as",
+        "cat_desc": "Cal\u00e7as para senhores",
+        "product_desc": "Cal\u00e7as para senhores"
+    },
+    "HF-CS": {
+        "code": "HF-CS",
+        "customer": "senhores",
+        "occasion": "Cerimonia e trabalho",
+        "subcategory": "Casacos",
+        "cat_desc": "Casacos para senhores",
+        "product_desc": "Casaco para senhores"
+    },
+    "HF-ET": {
+        "code": "HF-ET",
+        "customer": "senhores",
+        "occasion": "Cerimonia e trabalho",
+        "subcategory": "Coletes",
+        "cat_desc": "Coletes para senhores",
+        "product_desc": "Colete para senhores"
+    },
+    "HF-FR": {
+        "code": "HF-FR",
+        "customer": "senhores",
+        "occasion": "Cerimonia e trabalho",
+        "subcategory": "Fraques",
+        "cat_desc": "Fraques para senhores",
+        "product_desc": "Freque para senhores"
+    },
+    "HF-FT": {
+        "code": "HF-FT",
+        "customer": "senhores",
+        "occasion": "Cerimonia e trabalho",
+        "subcategory": "Fatos",
+        "cat_desc": "Fatos para senhores",
+        "product_desc": "Fato para senhores"
+    },
+    "HJ-AB": {
+        "code": "HJ-AB",
+        "customer": "senhores",
+        "occasion": "Joias",
+        "subcategory": "Abotoaduras",
+        "cat_desc": "Abotoaduras para senhores",
+        "product_desc": "Abotoadura para senhores"
+    },
+    "HJ-AN": {
+        "code": "HJ-AN",
+        "customer": "senhores",
+        "occasion": "Joias",
+        "subcategory": "An\u00e9is",
+        "cat_desc": "An\u00e9is para senhores",
+        "product_desc": "Anel para senhores"
+    },
+    "HJ-BR": {
+        "code": "HJ-BR",
+        "customer": "senhores",
+        "occasion": "Joias",
+        "subcategory": "Brincos",
+        "cat_desc": "Brincos para senhores",
+        "product_desc": "Brinco para senhores"
+    },
+    "HJ-CT": {
+        "code": "HJ-CT",
+        "customer": "senhores",
+        "occasion": "Joias",
+        "subcategory": "Conjuntos",
+        "cat_desc": "Conjuntos para senhores",
+        "product_desc": "Conjunto para senhores"
+    },
+    "HJ-FI": {
+        "code": "HJ-FI",
+        "customer": "senhores",
+        "occasion": "Joias",
+        "subcategory": "Fios",
+        "cat_desc": "Fios para senhores",
+        "product_desc": "Fio para senhores"
+    },
+    "HJ-PL": {
+        "code": "HJ-PL",
+        "customer": "senhores",
+        "occasion": "Joias",
+        "subcategory": "Pulseiras",
+        "cat_desc": "Pulseiras para senhores",
+        "product_desc": "Pulseira para senhores"
+    },
+    "HI-BX": {
+        "code": "HI-BX",
+        "customer": "senhores",
+        "occasion": "Roupa interior e Praia",
+        "subcategory": "Boxers",
+        "cat_desc": "Boxers para senhores",
+        "product_desc": "Boxer para senhores"
+    },
+    "HI-CU": {
+        "code": "HI-CU",
+        "customer": "senhores",
+        "occasion": "Roupa interior e Praia",
+        "subcategory": "Cuecas",
+        "cat_desc": "Cuecas para senhores",
+        "product_desc": "Cuecas para senhores"
+    },
+    "HI-FB": {
+        "code": "HI-FB",
+        "customer": "senhores",
+        "occasion": "Roupa interior e Praia",
+        "subcategory": "Fatos de banho",
+        "cat_desc": "Fatos de banho para senhores",
+        "product_desc": "Fato de Banho para senhores"
+    },
+    "HI-IN": {
+        "code": "HI-IN",
+        "customer": "senhores",
+        "occasion": "Roupa interior e Praia",
+        "subcategory": "Camisolasinteriores",
+        "cat_desc": "Camisolasinteriores para senhores",
+        "product_desc": "Camisola Interior para senhores"
+    },
+    "HR-AO": {
+        "code": "HR-AO",
+        "customer": "senhores",
+        "occasion": "Vestu\u00e1rio Casual",
+        "subcategory": "Calc\u00f5es",
+        "cat_desc": "Calc\u00f5es para senhores",
+        "product_desc": "Calc\u00f5es para senhores"
+    },
+    "HR-BM": {
+        "code": "HR-BM",
+        "customer": "senhores",
+        "occasion": "Vestu\u00e1rio Casual",
+        "subcategory": "Bermudas",
+        "cat_desc": "Bermudas para senhores",
+        "product_desc": "Bermudas para senhores"
+    },
+    "HR-CA": {
+        "code": "HR-CA",
+        "customer": "senhores",
+        "occasion": "Vestu\u00e1rio Casual",
+        "subcategory": "Camisas",
+        "cat_desc": "Camisas para senhores",
+        "product_desc": "Camisa para senhores"
+    },
+    "HR-CC": {
+        "code": "HR-CC",
+        "customer": "senhores",
+        "occasion": "Vestu\u00e1rio Casual",
+        "subcategory": "Cal\u00e7as",
+        "cat_desc": "Cal\u00e7as para senhores",
+        "product_desc": "Cal\u00e7as para senhores"
+    },
+    "HR-CM": {
+        "code": "HR-CM",
+        "customer": "senhores",
+        "occasion": "Vestu\u00e1rio Casual",
+        "subcategory": "Camisolas",
+        "cat_desc": "Camisolas para senhores",
+        "product_desc": "Camisola para senhores"
+    },
+    "HR-CS": {
+        "code": "HR-CS",
+        "customer": "senhores",
+        "occasion": "Vestu\u00e1rio Casual",
+        "subcategory": "Casacos",
+        "cat_desc": "Casacos para senhores",
+        "product_desc": "Casaco para senhores"
+    },
+    "HR-MC": {
+        "code": "HR-MC",
+        "customer": "senhores",
+        "occasion": "Vestu\u00e1rio Casual",
+        "subcategory": "Macac\u00f5es",
+        "cat_desc": "Macac\u00f5es para senhores",
+        "product_desc": "Macac\u00e3o para senhores"
+    },
+    "HR-PO": {
+        "code": "HR-PO",
+        "customer": "senhores",
+        "occasion": "Vestu\u00e1rio Casual",
+        "subcategory": "Polos",
+        "cat_desc": "Polos para senhores",
+        "product_desc": "Polo para senhores"
+    },
+    "HR-TK": {
+        "code": "HR-TK",
+        "customer": "senhores",
+        "occasion": "Vestu\u00e1rio Casual",
+        "subcategory": "Tanktops",
+        "cat_desc": "Tanktops para senhores",
+        "product_desc": "Tank Top para senhores"
+    },
+    "HR-TS": {
+        "code": "HR-TS",
+        "customer": "senhores",
+        "occasion": "Vestu\u00e1rio Casual",
+        "subcategory": "T-shirts",
+        "cat_desc": "T-shirts para senhores",
+        "product_desc": "T-Shirt para senhores"
+    },
+    "HA": {
+        "code": "HA",
+        "cat_desc": "Acess\u00f3rios para Senhores"
+    },
+    "HC": {
+        "code": "HC",
+        "cat_desc": "Cal\u00e7ado para Senhores"
+    },
+    "HF": {
+        "code": "HF",
+        "cat_desc": "Fatos para Senhores"
+    },
+    "HI": {
+        "code": "HI",
+        "cat_desc": "Roupa Interior para Senhores"
+    },
+    "HJ": {
+        "code": "HJ",
+        "cat_desc": "J\u00f3ias para Senhores"
+    },
+    "HR": {
+        "code": "HR",
+        "cat_desc": "Vestu\u00e1rio para Senhores"
+    },
+    "MA": {
+        "code": "MA",
+        "cat_desc": "Acess\u00f3rios para Senhoras"
+    },
+    "MB": {
+        "code": "MB",
+        "cat_desc": "Bijuteria para Senhoras"
+    },
+    "MC": {
+        "code": "MC",
+        "cat_desc": "Cal\u00e7ado para Senhoras"
+    },
+    "ME": {
+        "code": "ME",
+        "cat_desc": "Roupa Executiva para Senhoras"
+    },
+    "MF": {
+        "code": "MF",
+        "cat_desc": "Fatos para Senhoras"
+    },
+    "MG": {
+        "code": "MG",
+        "cat_desc": "Roupa de Gala para Senhoras"
+    },
+    "MJ": {
+        "code": "MJ",
+        "cat_desc": "J\u00f3ias para Senhoras"
+    },
+    "ML": {
+        "code": "ML",
+        "cat_desc": "Lingerie para Senhoras"
+    },
+    "MR": {
+        "code": "MR",
+        "cat_desc": "Vestu\u00e1rio para Senhoras"
+    },
+    "NA": {
+        "code": "NA",
+        "cat_desc": "Acess\u00f3rios para Noivas"
+    },
+    "NB": {
+        "code": "NB",
+        "cat_desc": "Bijuteria para Noivas"
+    },
+    "NC": {
+        "code": "NC",
+        "cat_desc": "Cal\u00e7ado para Noivas"
+    },
+    "NH": {
+        "code": "NH",
+        "cat_desc": "Anjinhos"
+    },
+    "NJ": {
+        "code": "NJ",
+        "cat_desc": "J\u00f3ias para Noivas"
+    },
+    "NL": {
+        "code": "NL",
+        "cat_desc": "Lingerie para Noivas"
+    },
+    "NR": {
+        "code": "NR",
+        "cat_desc": "Vestu\u00e1rio para Noivas"
+    }
+}
