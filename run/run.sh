@@ -11,6 +11,8 @@ IMPORT=~/apps/modanellsons/import/run/import.php
 #Delete all files from import folder
 #rm -rf ~/apps/modanellsons/public/import/*
 
+mkdir -p ~/apps/modanellsons/public/import/run/temp
+
 #DOWNLOAD FILES FROM DROPBOX
 rclone copy $REMOTE $LOCAL
 
